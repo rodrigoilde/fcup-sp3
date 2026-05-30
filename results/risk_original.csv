@@ -1,0 +1,11 @@
+metric;value
+records;48842
+qids;6
+prosecutor_max_risk;1.000
+prosecutor_avg_risk;0.382
+journalist_max_risk;1.000
+journalist_avg_risk;0.382
+marketer_risk;0.099
+sample_uniqueness;0.0537
+records_with_risk_above_20pct;0.318
+distinct_equivalence_classes;26212

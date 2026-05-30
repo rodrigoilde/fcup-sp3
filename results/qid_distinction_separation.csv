@@ -1,0 +1,16 @@
+attribute;distinction_pct;separation_pct;category
+age;0.15;97.71;QID
+education;0.03;88.41;QID
+marital-status;0.01;75.36;QID
+native-country;0.09;14.27;QID
+race;0.01;39.21;QID
+sex;0.004;45.84;QID
+occupation;0.03;91.42;Insensitive
+workclass;0.02;43.86;Insensitive
+relationship;0.01;71.62;Insensitive
+hours-per-week;0.19;77.20;Insensitive
+fnlwgt;57.79;99.99;Insensitive
+education-num;0.03;88.41;Insensitive
+capital-gain;0.25;13.66;Insensitive
+capital-loss;0.20;9.41;Insensitive
+income;0.004;36.33;Sensitive

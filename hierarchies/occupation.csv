@@ -1,0 +1,15 @@
+Exec-managerial;WhiteCollar;*
+Prof-specialty;WhiteCollar;*
+Adm-clerical;WhiteCollar;*
+Sales;WhiteCollar;*
+Tech-support;WhiteCollar;*
+Craft-repair;BlueCollar;*
+Machine-op-inspct;BlueCollar;*
+Transport-moving;BlueCollar;*
+Handlers-cleaners;BlueCollar;*
+Farming-fishing;BlueCollar;*
+Other-service;Service;*
+Priv-house-serv;Service;*
+Protective-serv;Service;*
+Armed-Forces;Other;*
+?;Other;*

@@ -1,0 +1,16 @@
+Preschool;Primary;Compulsory;*
+1st-4th;Primary;Compulsory;*
+5th-6th;Primary;Compulsory;*
+7th-8th;LowerSecondary;Compulsory;*
+9th;LowerSecondary;Compulsory;*
+10th;LowerSecondary;Compulsory;*
+11th;LowerSecondary;Compulsory;*
+12th;LowerSecondary;Compulsory;*
+HS-grad;UpperSecondary;PostCompulsory;*
+Some-college;HigherEd;PostCompulsory;*
+Assoc-acdm;HigherEd;PostCompulsory;*
+Assoc-voc;HigherEd;PostCompulsory;*
+Bachelors;HigherEd;PostCompulsory;*
+Masters;HigherEd;PostCompulsory;*
+Prof-school;HigherEd;PostCompulsory;*
+Doctorate;HigherEd;PostCompulsory;*

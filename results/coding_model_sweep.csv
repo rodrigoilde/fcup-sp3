@@ -1,0 +1,4 @@
+model;k;info_loss_pct;prosecutor_risk;records_suppressed_pct;equiv_classes
+GlobalFullDomain;5;24.7;0.2000;1.18;3142
+GlobalSubtree;5;20.3;0.2000;0.94;3681
+LocalRecoding;5;14.6;0.2000;0.71;4204
